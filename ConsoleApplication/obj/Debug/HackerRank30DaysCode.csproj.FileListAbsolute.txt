@@ -1,0 +1,9 @@
+D:\Training\HackerRank30DaysCode\HackerRank30DaysCode\bin\Debug\HackerRank30DaysCode.exe.config
+D:\Training\HackerRank30DaysCode\HackerRank30DaysCode\bin\Debug\HackerRank30DaysCode.exe
+D:\Training\HackerRank30DaysCode\HackerRank30DaysCode\bin\Debug\HackerRank30DaysCode.pdb
+D:\Training\HackerRank30DaysCode\HackerRank30DaysCode\obj\Debug\HackerRank30DaysCode.csprojResolveAssemblyReference.cache
+D:\Training\HackerRank30DaysCode\HackerRank30DaysCode\obj\Debug\HackerRank30DaysCode.csproj.CoreCompileInputs.cache
+D:\Training\HackerRank30DaysCode\HackerRank30DaysCode\obj\Debug\HackerRank30DaysCode.exe
+D:\Training\HackerRank30DaysCode\HackerRank30DaysCode\obj\Debug\HackerRank30DaysCode.pdb
+D:\Training\HackerRank30DaysCode\HackerRank30DaysCode\bin\Debug\Newtonsoft.Json.dll
+D:\Training\HackerRank30DaysCode\HackerRank30DaysCode\bin\Debug\Newtonsoft.Json.xml
